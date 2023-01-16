@@ -1,3 +1,4 @@
-public interface Discount {
+public interface Discount{
     double getRealMoney();
+
 }
